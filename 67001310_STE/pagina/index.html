@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VCT 2026 - Kickoff</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="login-screen">
+  <div id="login-box">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/1280px-Valorant_logo_-_pink_color_version.svg.png" alt="Valorant" id="login-logo">
+    <h2>VCT 2026</h2>
+    <p class="login-sub">Inicia sesión para continuar</p>
+
+    <div id="login-error" class="error-msg" style="display:none;"></div>
+
+    <input type="email"    id="input-email"    placeholder="Correo electrónico">
+    <input type="password" id="input-password" placeholder="Contraseña">
+
+    <button id="btn-login"    onclick="loginUser()">Iniciar sesión</button>
+    <button id="btn-register" onclick="registerUser()">Crear cuenta</button>
+  </div>
+</div>
+
+<div id="main-app" style="display:none;">
+
+  <header>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/1280px-Valorant_logo_-_pink_color_version.svg.png" alt="Valorant">
+    <h1>VALORANT Champions Tour 2026</h1>
+    <p>Ganadores del Kickoff — Primera fase del circuito</p>
+    <div id="user-bar">
+      <span id="user-email-label"></span>
+      <button id="btn-logout" onclick="logoutUser()">Cerrar sesión</button>
+    </div>
+  </header>
+
+  <nav id="navbar">
+    <button onclick="showPage('inicio')">🏠 Inicio</button>
+    <button onclick="showPage('americas')">🌎 Americas</button>
+    <button onclick="showPage('emea')">🌍 EMEA</button>
+    <button onclick="showPage('pacific')">🌏 Pacific</button>
+    <button onclick="showPage('china')">🐉 China</button>
+  </nav>
+
+  <main id="content">
+    <div id="inicio"   class="page"></div>
+    <div id="americas" class="page"></div>
+    <div id="emea"     class="page"></div>
+    <div id="pacific"  class="page"></div>
+    <div id="china"    class="page"></div>
+  </main>
+
+  <footer>VCT 2026 Kickoff · Ene–Feb 2026 · Clasificados a Masters Santiago 🇨🇱</footer>
+
+</div>
+
+<script src="script.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,267 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic:
+          - list:
+            - listitem:
+              - link "" [ref=e8] [cursor=pointer]:
+                - /url: https://www.facebook.com/ucatolicaco/
+                - generic [ref=e10]: 
+            - listitem:
+              - link "" [ref=e11] [cursor=pointer]:
+                - /url: https://twitter.com/UCatolicaCo
+                - generic [ref=e13]: 
+            - listitem:
+              - link "" [ref=e14] [cursor=pointer]:
+                - /url: https://www.instagram.com/ucatolicaco
+                - generic [ref=e16]: 
+            - listitem:
+              - link "" [ref=e17] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/ucatolicaco
+                - generic [ref=e19]: 
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - generic [ref=e24]: 
+          - text: (601) 4433700 Ext. 3130/60/90 |
+        - listitem [ref=e25]:
+          - generic [ref=e26]: 
+          - text: coniiti@ucatolica.edu.co |
+        - listitem [ref=e27]:
+          - generic [ref=e28]: 
+          - text: Bogotá, Universidad Católica de Colombia - Sede 4
+    - navigation [ref=e29]:
+      - generic [ref=e33]:
+        - link "Logo" [ref=e34] [cursor=pointer]:
+          - /url: https://coniiti.com/
+          - img "Logo" [ref=e35]
+        - list [ref=e36]:
+          - listitem [ref=e37]:
+            - link "Inicio" [ref=e38] [cursor=pointer]:
+              - /url: https://coniiti.com/
+          - listitem [ref=e39]:
+            - link "Páginas " [ref=e40] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e41]:
+                - text: Páginas
+                - generic [ref=e42]: 
+          - listitem [ref=e43]:
+            - link "Memorias " [ref=e44] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e45]:
+                - text: Memorias
+                - generic [ref=e46]: 
+          - listitem [ref=e47]:
+            - link "Acerca de" [ref=e48] [cursor=pointer]:
+              - /url: https://coniiti.com/acerca-de/
+          - listitem [ref=e49]:
+            - link "Contácto" [ref=e50] [cursor=pointer]:
+              - /url: https://coniiti.com/contact-form/
+          - listitem [ref=e51]:
+            - link "es Spanish▼" [ref=e52] [cursor=pointer]:
+              - /url: "#"
+              - img "es" [ref=e53]
+              - text: Spanish▼
+          - listitem [ref=e54]:
+            - link "" [ref=e56] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e57]: 
+        - text:       
+  - generic [ref=e58]:
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - group "1 / 2" [ref=e69]:
+          - generic [ref=e75]:
+            - heading "XI CONIITI 2025 Híbrido" [level=1] [ref=e76]:
+              - text: XI CONIITI 2025
+              - text: Híbrido
+            - paragraph [ref=e77]: Décimo Primer Congreso Internacional de Innovación y Tendencias en Ingeniería
+        - group "2 / 2" [ref=e78]:
+          - generic [ref=e84]:
+            - heading "España" [level=1] [ref=e85]
+            - paragraph [ref=e86]: País invitado para la versión XI de CONIITI
+      - button "Previous slide" [disabled]: 
+      - button "Next slide" [ref=e87] [cursor=pointer]: 
+      - generic [ref=e88]:
+        - button "Go to slide 1" [ref=e89] [cursor=pointer]
+        - button "Go to slide 2" [ref=e90] [cursor=pointer]
+    - generic [ref=e111]:
+      - generic [ref=e114]:
+        - img [ref=e117]
+        - generic [ref=e119]:
+          - heading "Networking de alto nivel" [level=3] [ref=e121]: Networking de alto nivel
+          - paragraph [ref=e123]: Participar en CONIITI te permitirá conectar con líderes de la industria, potenciales empleadores y otros profesionales que comparten tus intereses. Este networking puede abrirte puertas a oportunidades laborales y proyectos colaborativos.
+      - generic [ref=e128]:
+        - img [ref=e131]
+        - generic [ref=e133]:
+          - heading "Conferencias y talleres" [level=3] [ref=e135]: Conferencias y talleres
+          - paragraph [ref=e137]: Tendras acceso a una serie de conferencias y talleres impartidos por expertos de renombre, donde podras adquierir conocimientos valiosos y actualizados sobre las últimas tendencias y tecnológias
+      - generic [ref=e140]:
+        - img [ref=e143]
+        - generic [ref=e145]:
+          - heading "Alianzas Estratégicas" [level=3] [ref=e147]: Alianzas Estratégicas
+          - paragraph [ref=e149]: Las sesiones y talleres están diseñados para fomentar la colaboración y la creación de alianzas. Podrás conocer a posibles socios con los que podrás desarrollar iniciativas conjuntas.
+      - generic [ref=e154]:
+        - img [ref=e157]
+        - generic [ref=e159]:
+          - heading "Desarrollo Profesional" [level=3] [ref=e161]: Desarrollo Profesional
+          - paragraph [ref=e163]: Participar en este evento te ayudará a desarrollar nuevas habilidades y competencias, mejorando tu perfil profesional y aumentando tu empleabilidad.
+    - heading "Impacto X CONIITI 2024" [level=2] [ref=e174]
+    - generic [ref=e179]:
+      - generic [ref=e184]:
+        - generic [ref=e185]: Conferencistas
+        - generic [ref=e188]: "35"
+      - generic [ref=e194]:
+        - generic [ref=e195]: Patrocinadores
+        - generic [ref=e198]: "0"
+      - generic [ref=e204]:
+        - generic [ref=e205]: Ofertas de Workshops
+        - generic [ref=e208]: "5"
+      - generic [ref=e214]:
+        - generic [ref=e215]: Participantes del Evento
+        - generic [ref=e216]:
+          - generic [ref=e218]: "452"
+          - generic [ref=e219]: +
+    - heading "Para Autores" [level=2] [ref=e239]
+    - generic [ref=e282]:
+      - generic [ref=e287]:
+        - heading "Miembros UCatólica e IEEE" [level=2] [ref=e289]:
+          - text: Miembros
+          - text: UCatólica e IEEE
+        - generic [ref=e290]:
+          - generic [ref=e292]: $ 940.000
+          - text: /COP
+        - list [ref=e294]:
+          - listitem [ref=e295]:
+            - img [ref=e297]
+            - text: TU PAGO INCLUYE
+          - listitem [ref=e299]:
+            - img [ref=e301]
+            - text: Inscripción como Ponente
+          - listitem [ref=e303]:
+            - img [ref=e305]
+            - text: Constancia de participación para todos los autores
+          - listitem [ref=e307]:
+            - img [ref=e309]
+            - text: Publicación de las memorias
+      - generic [ref=e315]:
+        - heading "Sí no eres miembro UCatólica ó IEEE" [level=2] [ref=e317]:
+          - text: Sí no eres miembro
+          - text: UCatólica ó IEEE
+        - generic [ref=e318]:
+          - generic [ref=e320]: $ 980.000
+          - text: /COP
+        - list [ref=e322]:
+          - listitem [ref=e323]:
+            - img [ref=e325]
+            - text: TU PAGO INCLUYE
+          - listitem [ref=e327]:
+            - img [ref=e329]
+            - text: Inscripción como Ponente
+          - listitem [ref=e331]:
+            - img [ref=e333]
+            - text: Constancia de participación para todos los autores
+          - listitem [ref=e335]:
+            - img [ref=e337]
+            - text: Publicación de las memorias
+      - generic [ref=e343]:
+        - text: oPCIOnal
+        - heading "Si desea constancia por participación en conferencias" [level=2] [ref=e345]:
+          - text: Si desea constancia por
+          - text: participación en conferencias
+        - generic [ref=e346]:
+          - generic [ref=e348]: $120.000
+          - text: /COP
+        - list [ref=e350]:
+          - listitem [ref=e351]:
+            - img [ref=e353]
+            - text: TU PAGO INCLUYE
+          - listitem [ref=e355]:
+            - img [ref=e357]
+            - text: Certificado de Asistencia
+      - generic [ref=e363]:
+        - text: oPCIOnal
+        - heading "Si desea constancia por participación en Workshops" [level=2] [ref=e365]:
+          - text: Si desea constancia por
+          - text: participación en Workshops
+        - generic [ref=e366]:
+          - generic [ref=e368]: $90.000
+          - text: /COP
+        - list [ref=e370]:
+          - listitem [ref=e371]:
+            - img [ref=e373]
+            - text: TU PAGO INCLUYE
+          - listitem [ref=e375]:
+            - img [ref=e377]
+            - text: Certificado de Asistencia
+    - generic [ref=e390]:
+      - img [ref=e393]
+      - img [ref=e396]
+  - generic [ref=e421]:
+    - generic [ref=e422]:
+      - generic [ref=e425]: El Congreso Internacional de Innovación y Tendencias en Ingeniería es un espacio abierto de interacción entre actores del ecosistema innovador orientado a compartir nuevas aproximaciones para la transformación creativa de Colombia a través del diseño de soluciones con visión de ingeniería.
+      - search [ref=e427]:
+        - generic [ref=e428]:
+          - textbox "Search  Search" [ref=e429]:
+            - /placeholder: Search ...
+          - button "Search" [ref=e430] [cursor=pointer]
+    - generic [ref=e432]:
+      - generic [ref=e434]:
+        - heading "Enlaces útiles" [level=2] [ref=e435]
+        - list [ref=e437]:
+          - listitem [ref=e438]:
+            - link "Inicio" [ref=e439] [cursor=pointer]:
+              - /url: https://coniiti.com/
+          - listitem [ref=e440]:
+            - link "Cómite" [ref=e441] [cursor=pointer]:
+              - /url: https://coniiti.com/comite/
+          - listitem [ref=e442]:
+            - link "Para Autores" [ref=e443] [cursor=pointer]:
+              - /url: https://coniiti.com/para_autores/
+          - listitem [ref=e444]:
+            - link "Acerca de" [ref=e445] [cursor=pointer]:
+              - /url: https://coniiti.com/acerca-de/
+          - listitem [ref=e446]:
+            - link "Contácto" [ref=e447] [cursor=pointer]:
+              - /url: https://coniiti.com/contact-form/
+      - generic [ref=e450]:
+        - heading "Organiza" [level=2] [ref=e451]
+        - img [ref=e452]
+        - paragraph [ref=e453]: XI Congreso Internacional de Innovación y Tendencias en Ingeniería.
+      - generic [ref=e455]:
+        - heading "Galería" [level=2] [ref=e456]
+        - generic [ref=e457]:
+          - figure [ref=e458]
+          - figure [ref=e460]
+          - figure [ref=e462]
+          - figure [ref=e464]
+          - figure [ref=e466]
+          - figure [ref=e468]
+          - figure [ref=e470]
+          - figure [ref=e472]
+          - figure [ref=e474]
+  - contentinfo [ref=e476]:
+    - generic [ref=e478]:
+      - generic [ref=e479]:
+        - paragraph [ref=e480]
+        - paragraph [ref=e481]: © Universidad Católica de Colombia - Coniiti 2015 - 2025. All Rights Reserved.
+        - paragraph
+      - list [ref=e484]:
+        - listitem [ref=e485]:
+          - link "" [ref=e486] [cursor=pointer]:
+            - /url: https://www.facebook.com/ucatolicaco
+            - generic [ref=e487]: 
+        - listitem [ref=e488]:
+          - link "" [ref=e489] [cursor=pointer]:
+            - /url: https://www.instagram.com/ucatolicaco
+            - generic [ref=e490]: 
+        - listitem [ref=e491]:
+          - link "" [ref=e492] [cursor=pointer]:
+            - /url: https://www.youtube.com/@UCatolicaCo
+            - generic [ref=e493]: 
+  - generic [ref=e494]: desktop
+  - text:   
+```
